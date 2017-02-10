@@ -24,8 +24,7 @@
 		<img src='images/cat.jpg' alt='Photo of Josemari with his cat'>
 
 		<h2>About Me:</h2>
-		<p>
-			I will let our president describe me:  "I, the greatest, President Donald J. Trump. Believe me, I've been in some of the best HTML pages. And trust me, this HTML page is the best! Josemari is just fantastic - bigly talented! The others? They're lightweight like Jeb! 
+		<p>I will let President Trump describe me: I, the greatest, President Donald J. Trump. Believe me, I've been in some of the best HTML pages. And trust me, this HTML page is the best #alternativefacts! Josemari is just fantastic - bigly talented! The other PHP file you're grading? They're lightweight like Jeb! Sad! 
 		</p>
 
 		<h2>Random Quote:</h2>
