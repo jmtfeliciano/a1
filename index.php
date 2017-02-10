@@ -31,9 +31,9 @@
 		<h2>Random Quote:</h2>
 		
 		<?php // my code works by shuffling then picking the last index of the array
-		$zeldaQuote = "\"HYAHHHHHHH!!!!!!\"\n\n-Link, Legend of Zelda";
-		$catQuote = "\"I hate my human.\"\n\n-My cat";
-		$gotQuote = "\"I am Daenerys Stormborn of House Targaryen, the Unburnt, Mother of Dragons, khaleesi to Drogo's riders, and queen of the Seven Kingdoms of Westeros.\"\n\n-Future Queen of Westeros";
+		$zeldaQuote = "\"HYAHHHHHHH!!!!!!\"<br/>-Link, Legend of Zelda";
+		$catQuote = "\"I hate my human.\"<br/>-My cat";
+		$gotQuote = "\"I am Daenerys Stormborn of House Targaryen, the Unburnt, Mother of Dragons, khaleesi to Drogo's riders, and queen of the Seven Kingdoms of Westeros.\"<br/>-Future Queen of Westeros";
 
 		$quotesArray = array($zeldaQuote, $catQuote, $gotQuote);
 		shuffle($quotesArray);
@@ -46,5 +46,5 @@
 	
 
 	</body>
-	
+
 </html>
