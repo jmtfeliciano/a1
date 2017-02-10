@@ -25,21 +25,22 @@
 
 		<h2>About Me:</h2>
 		<p>
-			I will let our president describe me:  "I, the greatest, President Donald J. Trump. Believe me, I've been in some of the best HTML pages. And trust me, this HTML page is the best! Josemari is just fantastic - bigly talented! The others? They're lightweight like Jeb!
+			I will let our president describe me:  "I, the greatest, President Donald J. Trump. Believe me, I've been in some of the best HTML pages. And trust me, this HTML page is the best! Josemari is just fantastic - bigly talented! The others? They're lightweight like Jeb! 
 		</p>
 
 		<h2>Random Quote:</h2>
 		
-		<?php // my code works by shuffling then picking the last index of the array
-		$zeldaQuote = "\"HYAHHHHHHH!!!!!!\"<br/>-Link, Legend of Zelda";
-		$catQuote = "\"I hate my human.\"<br/>-My cat";
-		$gotQuote = "\"I am Daenerys Stormborn of House Targaryen, the Unburnt, Mother of Dragons, khaleesi to Drogo's riders, and queen of the Seven Kingdoms of Westeros.\"<br/>-Future Queen of Westeros";
+		<p>
+			<?php // my code works by shuffling then picking the last index of the array
+			$zeldaQuote = "\"HYAHHHHHHH!!!!!!\"<br/>-Link, Legend of Zelda";
+			$catQuote = "\"I hate my human.\"<br/>-My cat";
+			$gotQuote = "\"I am Daenerys Stormborn of House Targaryen, the Unburnt, Mother of Dragons, khaleesi to Drogo's riders, and queen of the Seven Kingdoms of Westeros.\"<br/>-Future Queen of Westeros";
 
-		$quotesArray = array($zeldaQuote, $catQuote, $gotQuote);
-		shuffle($quotesArray);
-		echo $quotesArray[2];
-		?> 
-
+			$quotesArray = array($zeldaQuote, $catQuote, $gotQuote);
+			shuffle($quotesArray);
+			echo $quotesArray[2];
+			?> 
+		</p>
 
 	</div>
 
